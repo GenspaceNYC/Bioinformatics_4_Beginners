@@ -3,6 +3,7 @@
 
 <details><summary>(1) Explore Databases</summary>
 <p>
+	
 **Databases** 
 	
 1. We will be using the National Center for Biotechnology Information (NCBI) Genbank Database in our next activity:
@@ -22,6 +23,7 @@
 
 <details><summary>(2) Mystery Species Activity</summary>
 <p>
+	
 **Let's get started:**
 
 1. Open the mystery species data file: mystery_species.fasta.txt
@@ -91,7 +93,7 @@
 	- Best to Install Augur & Auspice with Conda.
 3. Follow the commands to analyze the data provided.
 
-####Note: Update to last command in Zika Tutorial
+**Note: Update to last command in Zika Tutorial**
 - "Explore the Results" to work with the latest version of augur. 
 
 ```
